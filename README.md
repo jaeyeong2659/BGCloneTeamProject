@@ -65,7 +65,7 @@
 | **skydenny99** | [GitHub](https://github.com/skydenny99) | kimdenny123@naver.com |
 | **jaeyeong2659** | [GitHub](https://github.com/jaeyeong2659) | jaeyeong2659@gmail.com |
 | **Jh9925** | [GitHub](https://github.com/Jh9925) | dkswjdgjs8902@gmail.com |
-| **austine.nam** |  | austine.nam@gmail.com |
+| **austine.nam** | [Github](https://github.com/NekoHaNab1z) | austine.nam@gmail.com |
 
 ---
 
