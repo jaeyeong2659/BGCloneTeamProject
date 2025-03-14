@@ -47,7 +47,7 @@
 - 🔹 **총기 Ability System 구현 (발사, 재장전, 줌 인/아웃)**
 - 🔹 **1인칭 스코프 시스템 구현**
 
-### ✈ 팀원: **austine.nam**
+### ✈ 팀원: **NekoHaNab1z**
 - 🔹 **스폰 비행기 구현**
 - 🔹 **낙하 데미지 시스템 구현**
 - 🔹 **문 상호작용 구현**
@@ -65,7 +65,7 @@
 | **skydenny99** | [GitHub](https://github.com/skydenny99) | kimdenny123@naver.com |
 | **jaeyeong2659** | [GitHub](https://github.com/jaeyeong2659) | jaeyeong2659@gmail.com |
 | **Jh9925** | [GitHub](https://github.com/Jh9925) | dkswjdgjs8902@gmail.com |
-| **austine.nam** |  | austine.nam@gmail.com |
+| **NekoHaNab1z** | [GitHub](https://github.com/NekoHaNab1z) | austine.nam@gmail.com |
 
 ---
 
